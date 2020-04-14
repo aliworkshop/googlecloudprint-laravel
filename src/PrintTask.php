@@ -1,8 +1,8 @@
 <?php
-namespace Bnb\GoogleCloudPrint;
+namespace ALIWORKSHOP\GoogleCloudPrint;
 
-use Bnb\GoogleCloudPrint\Exceptions\InvalidSourceException;
-use Bnb\GoogleCloudPrint\Exceptions\PrintTaskFailedException;
+use ALIWORKSHOP\GoogleCloudPrint\Exceptions\InvalidSourceException;
+use ALIWORKSHOP\GoogleCloudPrint\Exceptions\PrintTaskFailedException;
 
 class PrintTask
 {

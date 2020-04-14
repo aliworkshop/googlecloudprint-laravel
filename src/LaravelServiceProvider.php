@@ -1,5 +1,5 @@
 <?php
-namespace Bnb\GoogleCloudPrint;
+namespace ALIWORKSHOP\GoogleCloudPrint;
 
 use Illuminate\Support\ServiceProvider;
 

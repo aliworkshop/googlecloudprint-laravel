@@ -1,5 +1,5 @@
 <?php
-namespace Bnb\GoogleCloudPrint\Exceptions;
+namespace ALIWORKSHOP\GoogleCloudPrint\Exceptions;
 
 class PrintTaskFailedException extends \Exception
 {

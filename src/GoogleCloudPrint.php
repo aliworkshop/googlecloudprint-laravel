@@ -1,7 +1,7 @@
 <?php
-namespace Bnb\GoogleCloudPrint;
+namespace ALIWORKSHOP\GoogleCloudPrint;
 
-use Bnb\GoogleCloudPrint\Exceptions\InvalidCredentialsException;
+use ALIWORKSHOP\GoogleCloudPrint\Exceptions\InvalidCredentialsException;
 use Google_Client;
 use Illuminate\Contracts\Config\Repository as Config;
 

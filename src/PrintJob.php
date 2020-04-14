@@ -2,11 +2,11 @@
 /**
  * laravel-google-cloud-print
  *
- * @author    Jérémy GAULIN <jeremy@bnb.re>
+ * @author    Jérémy GAULIN <jeremy@ALIWORKSHOP.re>
  * @copyright 2016 - B&B Web Expertise
  */
 
-namespace Bnb\GoogleCloudPrint;
+namespace ALIWORKSHOP\GoogleCloudPrint;
 
 /**
  * Class PrintJob
@@ -16,7 +16,7 @@ namespace Bnb\GoogleCloudPrint;
  * @property string status
  * @property string title
  *
- * @package Bnb\GoogleCloudPrint
+ * @package ALIWORKSHOP\GoogleCloudPrint
  */
 class PrintJob
 {

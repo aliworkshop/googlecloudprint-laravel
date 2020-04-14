@@ -1,17 +1,17 @@
 {
   "name": "aliworkshop/laravel-google-cloud-print",
-  "description": "Google Cloud Print Service Provider for Laravel 7",
+  "description": "Google Cloud Print Service Provider for Laravel 6,7",
   "type": "Library",
   "license": "MIT",
   "authors": [
     {
-      "name": "Jérémy Gaulin",
-      "email": "jeremy@bnb.re"
+      "name": "Ali Torabi",
+      "email": "sralitorabi@gmail.com"
     }
   ],
   "autoload": {
     "psr-4": {
-      "Bnb\\GoogleCloudPrint\\": "src/"
+      "ALIWORKSHOP\\GoogleCloudPrint\\": "src/"
     }
   },
   "require": {

@@ -1,6 +1,6 @@
 <?php 
 
-namespace Bnb\GoogleCloudPrint\Facades;
+namespace ALIWORKSHOP\GoogleCloudPrint\Facades;
 
 use Illuminate\Support\Facades\Facade;
 
