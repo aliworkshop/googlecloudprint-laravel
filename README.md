@@ -1,10 +1,10 @@
-# Google Cloud Print service for Laravel 5
+# Google Cloud Print service for Laravel 6,7
 
 ## Install
 
 Via composer :
 
-    composer require bnbwebexpertise/laravel-google-cloud-print
+    composer require aliworkshop/laravel-google-print
 
 Then add the service provider class to your Laravel `config/app.php` :
 
